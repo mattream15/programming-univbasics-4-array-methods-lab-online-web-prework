@@ -5,7 +5,7 @@ end
 
 def using_sort(array)
 using_sort(array) = ["red", "yellow", "blue"]
-using_sort(array).Sort
+using_sort(array).sort
 end
 
 def using_reverse(array)
