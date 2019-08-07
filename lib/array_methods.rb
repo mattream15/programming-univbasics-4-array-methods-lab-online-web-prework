@@ -9,7 +9,7 @@ using_sort(array).sort
 end
 
 def using_reverse(array)
-
+using_reverse(array) = ["red", "yellow", "blue"]
 end
 
 def using_first(array)
