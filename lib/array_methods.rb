@@ -19,7 +19,8 @@ using_first(array).first
 end
 
 def using_last(array)
-
+using_last(array) = ["red", "yellow", "blue"]
+using_last(array).last
 end
 
 def using_size(array)
